@@ -1,0 +1,14 @@
+{
+  "name": "creative-skills",
+  "owner": { "name": "Don Fung" },
+  "metadata": {
+    "description": "Claude skills for creative work, grouped by category."
+  },
+  "plugins": [
+    {
+      "name": "foundations",
+      "source": "./skills/foundations",
+      "description": "Craft and critique shared across image, video, 3D and music."
+    }
+  ]
+}
